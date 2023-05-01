@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+img{
+    width: 5.5rem;
+    height: 5.2rem;
+    border-radius: 50%;
+    align:center
+    
+      
+}
+.img{
+    position:fixed;
+}
+#title{
+    text-align: center;
+    
+    font-size: 2.5rem;
+    padding:1.3rem 0;
+    color: rgb(49,70,7);
+    background: rgba(105,224,90,0.55);
+    font-family: Georgia, 'Times New Roman', Times, serif;}
